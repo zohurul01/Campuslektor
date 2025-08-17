@@ -135,4 +135,5 @@ LinkedIn
 YouTube
 
 
-Built with ❤️ by Campuslektor in partnership with Detectora.
+By: https://zohirs.com/
+
